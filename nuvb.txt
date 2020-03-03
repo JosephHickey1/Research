@@ -1,0 +1,13 @@
+# name magnitude
+b'ASASNN15od'   b'16.81'
+b'ASASNN16ip'   b'19.68'
+b'sn2006dd'   b'15.12'
+b'sn2008Q'   b'18.53'
+b'sn2008hv'   b'20.39'
+b'sn2011by'   b'14.79'
+b'sn2012ht'    b'14.9'
+b'sn2013aa'    b'16.0'
+b'sn2013eh'   b'19.14'
+b'sn2014I'   b'21.69'
+b'sn2014at'   b'20.12'
+b'sn2016ekg'   b'19.41'
